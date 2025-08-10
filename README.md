@@ -1,6 +1,6 @@
 # XAI-in-Dental-Imaging
 
-This repository accompanies the seminar paper *"XAI in Dental Imaging: A Review with Applications in Caries Detection"* submitted as part of an academic project in the summer semester 2025.
+This repository accompanies the seminar paper *"XAI in Dental Imaging: A Review with Applications in Caries Detection"* submitted as part of an academic project in the summer semester 2025, which received a 1.0 (full points).
 
 
 ---
